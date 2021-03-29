@@ -59,7 +59,7 @@ wrapt = "==1.11.1"
 Faker = "==0.8.18"
 Jinja2 = "==2.10"
 MarkupSafe = "==1.1.1"
-Pygments = "==2.3.1"
+Pygments = "==2.7.4"
 PyYAML = "==3.13"
 "validator.py" = "==1.2.5"
 
